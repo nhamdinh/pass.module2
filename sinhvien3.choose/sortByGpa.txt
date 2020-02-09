@@ -1,0 +1,6 @@
+6; CGMD001130; Nguyễn Tùng Lâm; lam300695@gmail.com; 89.0
+4; CGMD001123; Mạc Văn Bằng; bangmac88@gmail.com; 87.0
+2; CGMD001053; Nguyễn Thế Anh; biettuot505@gmail.com; 86.0
+5; ; Bùi Xuân Huynh; huynhxuanbui@gmail.com; 66.0
+3; CGMD001120; Nguyễn Đinh Nhâm; nhamnd.hmu@gmail.com; 55.0
+1; CGMD000992; Trần Kim Thường; thuongtk.bk@gmail.com; 48.0
