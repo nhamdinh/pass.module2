@@ -159,7 +159,11 @@ public class StudentManager {
     public void displayStudentByGpa(float score) {
         for (Student student : studentList) {
             if (student.getGpa() > score) {
-                System.out.println(student);
+                System.out.print(student.getCode()
+                        +"   "+student.getName()
+                        +"   "+student.getEmail()
+                        +"   "+student.getGpa());
+                System.out.println();
             }
         }
 
@@ -167,8 +171,12 @@ public class StudentManager {
 
     public void displayStudentByCode(String code) {
         for (Student student : studentList) {
-            if (student.getCode() == code) {
-                System.out.println(student);
+            if (student.getCode().equals(code) ) {
+                System.out.print(student.getCode()
+                        +"   "+student.getName()
+                        +"   "+student.getEmail()
+                        +"   "+student.getGpa());
+                System.out.println();
             }
         }
 
